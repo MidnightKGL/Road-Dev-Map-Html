@@ -1,3 +1,3 @@
 # Road-Dev-Map-Html
-Html Projects
+Single Page
 https://roadmap.sh/projects/single-page-cv
